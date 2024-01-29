@@ -10,11 +10,11 @@ def welcome_assignment_answers(question):
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
         answer = "No"
     elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
-        answer = "No"
+        answer = "pcap"
     elif question == "Is it possible to decode a message without a key? - Yes/No":
         answer = "Yes"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
-        answer = "Yes"
+        answer = "No"
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
         answer = "4743c68912d7faaf7231aa7c11046f4afa88c906260b97b9c4e7e345027913c5"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
